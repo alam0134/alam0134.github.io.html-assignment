@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Assignment Alam0134</title>
+</head>
+<body>
+<header>
+    <h1>Didarul Alam</h1>
+</header> 
+<main>
+    <article>
+        <h2>About myself</h2>
+        <br>
+        <p>Hello, my name is <em>Didarul Alam</em>. I am an international student here in Canada studying in <em>Interactive Media design</em>. I came to Canada 24<sup>th</sup>April 2024. I love to design Websites and Apps. I want to be a Ui Ux designer in future and start my own business in this industry. That's why i am at Algonquin College to enrice my potential. I met some amazing professors and fellow students, who are helping me to kick off my journey.</p>
+        <p>In my leasure time i love to read books and learn more about my field. It gives me a sense of happiness. In this cource i am not only learning the skills also how to use those skills. Even these days i am giving a lot of my time to learn the fundamentals of Web design and coding. And frankly speaking its so pleasurable.</p>
+
+    </article><br>
+<blockquite>
+    "The richest people in the world look for and build network; everyone else looks for work" <br><cite>Robert Kiyosaki</cite>
+</blockquite>
+<p><abbr title="Studying at Algonquin College" <sup>DIDARUL ALAM</sup></p><P>Thank You</P>
+    <footer>
+        <p>@Didarul All Copyrights Reserved 2024</p>
+    </footer>
+</main>
+</body>
+</html>
